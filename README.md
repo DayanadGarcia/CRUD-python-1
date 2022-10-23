@@ -45,23 +45,23 @@
 
 #### GET BOOKS BY ID
 
-![get-all](images/get-by-id.png)
+![get-book-by-id](images/get-by-id.png)
 
 -----
 ------
 #### UPDATE BOOK BY ID
 
-![get-all](images/update-book.png)
+![upadate-book-by-id](images/update-book.png)
 
 -----
 ------
 #### INSERT NEW BOOK
 
-![get-all](images/post-book.png)
+![new-book](images/post-book.png)
 
 -----
 ------
 
 #### DELETE BOOK BY ID
 
-![get-all](images/delete.png)
+![delete-book-by-id](images/delete.png)
